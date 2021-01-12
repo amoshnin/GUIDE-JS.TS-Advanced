@@ -17,4 +17,4 @@
 
 function matrix(n) {}
 
-module.exports = matrix;
+module.exports = matrix
